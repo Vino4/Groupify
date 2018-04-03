@@ -1,0 +1,20 @@
+const getAllParticipantsController = require('./getAllParticipantsController');
+const createParticipantController = require('./createParticipantController');
+const deleteParticipantController = require('./deleteParticipantController');
+const getOneParticipantController = require('./getOneParticipantController');
+const regroupParticipantsController = require('./regroupParticipantsController');
+const updateParticipantController = require('./updateParticipantController');
+const updateParticipantGroupNumberController = require('./updateParticipantGroupNumberController');
+const getSurveyForParticipantsController = require('./getSurveyForParticipantsController');
+
+
+module.exports = {
+    getAllParticipantsController,
+    createParticipantController,
+    deleteParticipantController,
+    getOneParticipantController,
+    regroupParticipantsController,
+    updateParticipantController,
+    updateParticipantGroupNumberController,
+    getSurveyForParticipantsController,
+};
