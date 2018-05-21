@@ -1,4 +1,4 @@
-# Team Divider (<a href="http://almenshad.com:4444/" target="_blank">Demo</a>) 
+# Groupify (<a href="http://almenshad.com:4444/" target="_blank">Demo</a>) 
 ##### (NOTE: The demo is often used for live testing, if the server is down, please try again in a few minutes)
 [Presentation Slides](https://docs.google.com/presentation/d/1cKuBquG4TE3nPYi-Fv0Z636KcucX01P-X7M6cCBjcbg/edit?usp=sharing)
 
